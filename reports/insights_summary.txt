@@ -1,0 +1,103 @@
+======================================================================
+ E-COMMERCE BUSINESS INTELLIGENCE — 50 ANALYSIS INSIGHTS SUMMARY
+======================================================================
+
+  1. Total revenue (delivered orders): ₦76.2M over 3 years.
+
+  2. Best performing quarter: 2022-Q4.
+
+  3. Top revenue category: Electronics (₦41.1M).
+
+  4. Overall AOV: ₦2125. Peak AOV: ₦2244.
+
+  5. Most revenue from 'Card' payment method.
+
+  6. Top revenue region: Lagos (₦22.9M).
+
+  7. Latest YoY revenue growth: -1.6%.
+
+  8. Highest gross margin category: Books & Media (73.6%).
+
+  9. Top 40.2% of products drive 80% of revenue (Pareto principle).
+
+  10. Platinum tier customers have the highest average order value despite lowest count.
+
+  11. Total customers acquired: 5,000 over 3 years.
+
+  12. Average Month-1 retention rate: 17.7%.
+
+  13. Median CLV: ₦13,890; Top 5% CLV: >₦31,523.
+
+  14. RFM: 1,126 Champions, 375 Lost customers.
+
+  15. 86.1% of delivered orders are from returning customers.
+
+  16. Top customer region: Lagos (1,476 customers).
+
+  18. Top revenue-generating channel: Organic Search.
+
+  19. Best-selling product: Electronics Product 34 (588 units).
+
+  20. Top revenue product: Electronics Product 121 (₦0.9M).
+
+  21. Highest return rate: Toys & Games (5.9%).
+
+  22. Overall avg rating: 3.96/5. 73.1% positive reviews.
+
+  23. Highest inventory turnover: Electronics (640.07x).
+
+  24. Top 20 dead-stock products lock up ₦0.0M in capital.
+
+  25. Most frequently co-purchased pair: P0154 + P0368 (6 orders).
+
+  26. Price-Rating correlation: r=-0.018 (p=0.6883).
+
+  27. Cancellation rate: 6.2% of all orders.
+
+  28. Peak order day: Wednesday.
+
+  29. Peak order hour: 23:00.
+
+  30. Average fulfilment time: 7.5 days.
+
+  31. Repeat purchase rate: 99.4% of customers ordered more than once.
+
+  32. 50.2% of delivered orders included a discount.
+
+  33. Peak revenue month: 2022-05.
+
+  34. Average items per delivered order: 5.97.
+
+  35. Best ROI campaign: 'Valentine 2023' (2665% ROI).
+
+  36. Lowest CAC channel: Email (₦265/customer).
+
+  37. Top revenue campaign: 'Easter 2023' (₦2.7M).
+
+  38. Average website conversion rate: 8.00%.
+
+  39. Highest converting device: Tablet.
+
+  40. Linear revenue trend: ₦-361/month growth rate.
+
+  41. Revenue distribution: skew=2.07, kurtosis=5.27. P90=₦5,430.
+
+  42. Highest revenue gender segment: Male.
+
+  43. CLV differs significantly by channel (ANOVA F=2.19, p=0.0529).
+
+  44. 73.1% of all reviews are positive.
+
+  45. 4 distinct customer clusters identified based on CLV, frequency & age.
+
+  46. Revenue correlations across categories reveal co-movement patterns.
+
+  47. Platinum customers (5% of base) drive 5.0% of revenue.
+
+  48. Spend-Revenue correlation: r=0.38. ROAS ~9.4x.
+
+  49. Newer product cohorts show accelerating revenue contribution.
+
+  50. Summary: ₦76.2M revenue, 35,853 orders, 49.6% net margin, 3.96/5 avg rating.
+
+======================================================================
