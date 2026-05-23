@@ -3,13 +3,13 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-50 high-standard business intelligence analyses on synthetic e-commerce data — covering sales performance, customer behaviour, product analytics, marketing attribution, and ML-powered forecasting.
+50 high-standard business intelligence analyses on synthetic e-commerce data, covering sales performance, customer behaviour, product analytics, marketing attribution, and ML-powered forecasting.
 
 ---
 
 ## Problem Statement
 
-E-commerce companies generate enormous transactional data but rarely extract its full value. This project demonstrates 50 distinct BI analyses a data analyst should be able to perform — from basic KPIs to causal inference and predictive modelling.
+E-commerce companies generate enormous transactional data but rarely extract its full value. This project demonstrates 50 distinct BI analyses a data analyst should be able to perform, from basic KPIs to causal inference and predictive modelling.
 
 ---
 
@@ -49,5 +49,5 @@ jupyter notebook
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
